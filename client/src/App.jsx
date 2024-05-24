@@ -42,15 +42,15 @@ function App() {
             </p>
             <button>Learn More &nbsp;&rarr;</button>
           </div>
-          <img src="../public/Frame.svg" alt="" />
+          <img src="../Frame.svg" alt="" />
         </div>
       </section>
       <section className="services" id="services">
-        <img src="../public/Fictional_company_logo_1.svg" alt="" />
-        <img src="../public/Fictional_company_logo_2.svg" alt="" />
-        <img src="../public/Fictional_company_logo_3.svg" alt="" />
-        <img src="../public/Fictional_company_logo_4.svg" alt="" />
-        <img src="../public/Fictional_company_logo_5.svg" alt="" />
+        <img src="../Fictional_company_logo_1.svg" alt="" />
+        <img src="../Fictional_company_logo_2.svg" alt="" />
+        <img src="../Fictional_company_logo_3.svg" alt="" />
+        <img src="../Fictional_company_logo_4.svg" alt="" />
+        <img src="../Fictional_company_logo_5.svg" alt="" />
       </section>
       <section className="projects" id="projects">
         <div className="projects_heading">
@@ -68,22 +68,22 @@ function App() {
         </div>
         <div className="project">
           <div className="project1">
-            <img src="../public/jcloudwork homepage/Mask group-2.svg" alt="" />
+            <img src="../jcloudwork homepage/Mask group-2.svg" alt="" />
             <p>Shiva Stuthi Residence Before</p>
             <p>Jcloudwork</p>
           </div>
           <div className="project1">
-            <img src="../public/jcloudwork homepage/Mask group-3.svg" alt="" />
+            <img src="../jcloudwork homepage/Mask group-3.svg" alt="" />
             <p>Shiva Stuthi Residence After</p>
             <p>Jcloudwork</p>
           </div>
           <div className="project1">
-            <img src="../public/jcloudwork homepage/Mask group-1.svg" alt="" />
+            <img src="../jcloudwork homepage/Mask group-1.svg" alt="" />
             <p>Artificial Lighting Before</p>
             <p>Jcloudwork</p>
           </div>
           <div className="project1">
-            <img src="../public/jcloudwork homepage/Mask group-4.svg" alt="" />
+            <img src="../jcloudwork homepage/Mask group-4.svg" alt="" />
             <p>Artificial Lighting After</p>
             <p>Jcloudwork</p>
           </div>
@@ -100,7 +100,7 @@ function App() {
         <div className="solution">
           <div className="solution_card">
             <div>
-              <img src="../public/homeDesign/Group-3.svg" alt="" />
+              <img src="../homeDesign/Group-3.svg" alt="" />
             </div>
             <h4>Modern Designs</h4>
             <p>
@@ -111,7 +111,7 @@ function App() {
           </div>
           <div className="solution_card">
             <div>
-              <img src="../public/homeDesign/Group-1.svg" alt="" />
+              <img src="../homeDesign/Group-1.svg" alt="" />
             </div>
             <h4>Quality Work</h4>
             <p>
@@ -121,7 +121,7 @@ function App() {
           </div>
           <div className="solution_card">
             <div>
-              <img src="../public/homeDesign/Group-2.svg" alt="" />
+              <img src="../homeDesign/Group-2.svg" alt="" />
             </div>
             <h4>Affordable Prices</h4>
             <p>
@@ -177,7 +177,7 @@ function App() {
             </div>
           </div>
           <div id="about_img">
-            <img src="../public/Rectangle 37.svg" alt="" />
+            <img src="../Rectangle 37.svg" alt="" />
           </div>
         </div>
       </section>
@@ -190,7 +190,7 @@ function App() {
             brilliance.
           </p>
         </div>
-        <img src="../public/Testimonial.svg" alt="" />
+        <img src="../Testimonial.svg" alt="" />
         <div className="awards_bottom">
           <div></div>
           <div></div>
@@ -201,20 +201,20 @@ function App() {
       </section>
       <section className="footer">
         <div className="footer_1">
-          <img src="../public/logo 1.svg" alt="" />
+          <img src="../logo 1.svg" alt="" />
           <p>Learning & Training Redefined</p>
           <div className="social_media">
             <div className="social_media_logo">
-              <img src="../public/socialmedia_logos/twitter.svg" alt="" />
+              <img src="../socialmedia_logos/twitter.svg" alt="" />
             </div>
             <div className="social_media_logo">
-              <img src="../public/socialmedia_logos/facebook.svg" alt="" />
+              <img src="../socialmedia_logos/facebook.svg" alt="" />
             </div>
             <div className="social_media_logo">
-              <img src="../public/socialmedia_logos/instagram.svg" alt="" />
+              <img src="../socialmedia_logos/instagram.svg" alt="" />
             </div>
             <div className="social_media_logo">
-              <img src="../public/socialmedia_logos/github.svg" alt="" />
+              <img src="../socialmedia_logos/github.svg" alt="" />
             </div>
           </div>
         </div>
